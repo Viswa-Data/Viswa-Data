@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/viswa16" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:viswa@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/vishva961"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/viswa-Data"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>  
 
 ---
@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishva961&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishva961&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viswa-Data&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viswa-Data&layout=compact&theme=radical" height="180"/>
 </p>  
 
 ---
